@@ -10,26 +10,16 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+# About Me
+Hi!  My name is Leo, I am a first year Information Systems Management Student at Carnegie Mellon University Heinz College. I completed my Bachelors of Computer Science at West Virginia University. I'm bilingual and I enjoy soccer.
 
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+# What I Hope to Learn in Telling Stories With Data
+- How to create engaging and easy to read data visualizations
+- Become familiar with softwares such as Tableau
+- How to identify misleading visualizations
+- More visualizations than bar charts and pie charts
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 

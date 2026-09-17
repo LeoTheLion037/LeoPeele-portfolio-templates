@@ -191,18 +191,23 @@ Sketch
 [Makeover Monday Sketch.pdf](https://github.com/user-attachments/files/32358805/Makeover.Monday.Sketch.pdf)
 
 Sketch Interview Reactions
-can you tell me what you think this is
+
+Can you tell me what you think this is
 - familiar with the graphic, they have them on espn, it’s over the course of a season against their opponent
 - arsenal vs all other teams in the league
-can you describe what it’s telling you
+
+Can you describe what it’s telling you
 - all of these statistic relative to their opponents
 -  arsenal premier league winning season, they had more average goals and penalty kicks, less red cards, more shots on target proportional to shots
+
 Is there anything surprising or confusing?
 - It looks like red cards and yellow cards are discrete and not continuous, they average 0 but i’m sure they didn’t go the whole season without a single red card
 - they’re just the highest goal scoring team
+
 who do you think is the intended audience
 - an arsenal fan, they’re better in pretty much every category
 - anybody who enjoys soccer 
+
 what would you do different
 - labels on the columns/measurements
 - the dark red is darker than the dark blue

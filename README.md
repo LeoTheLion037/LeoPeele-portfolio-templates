@@ -153,25 +153,6 @@ Original Link: https://makeovermonday.vercel.app/dataset/2026w22-arsenal-2526-ch
     <param name='filter' value='publish=yes' />
   </object>
 </div>
-<script type='text/javascript'>
-  var divElement = document.getElementById('viz1789687615942');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  
-  if (divElement.offsetWidth > 800) {
-    vizElement.style.width = '1000px';
-    vizElement.style.height = '827px';
-  } else if (divElement.offsetWidth > 500) {
-    vizElement.style.width = '1000px';
-    vizElement.style.height = '827px';
-  } else {
-    vizElement.style.width = '100%';
-    vizElement.style.height = '1727px';
-  }
-  
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
 
 Form Responses:
 Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't work well?
@@ -212,6 +193,10 @@ what would you do different
 - labels on the columns/measurements
 - the dark red is darker than the dark blue
 
+Interview Takeaways:
+- Labels will help quantify the variation in the dataset
+- Mixing the axis makes it confusing because some of the values are much larger than others
+- 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  

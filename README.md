@@ -196,7 +196,7 @@ what would you do different
 Interview Takeaways:
 - Labels will help quantify the variation in the dataset
 - Mixing the axis makes it confusing because some of the values are much larger than others
-- 
+- Use color needs to be consistent
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  

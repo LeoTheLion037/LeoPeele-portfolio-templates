@@ -1,42 +1,44 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+For my final project, I would like to explore phishing scams. My presentation will focus on how phishing messages have changed over time, and which messages have yielded the best or worst results depending on who you ask. My background is primarily in software development, but I think phishing scams are interesting and I have some familiarity from previous projects I have done in this realm (hackathon project & data analysis on malicious URLs). 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+We have all received phishing emails, and many of them. We have probably all received voice phishing, text phishing, and even more types of spam. We have a lot of technology that can help filter out spam or nip phishing in the bud, but unfortunately there is still a lot that gets through, and phishing scam tactics have evolved over time. Not too long ago the stereotypical phishing email had to do with a Nigerian Price seeking to distribute wealth rife with spelling errors, but has evolved into sneakier notifications telling you a non existent package has been lost or that you received a non existent ticket. I think a lot of people are overconfident in their ability to spot scam emails, and I want to highlight how a lot of recommendations from years past don't really hold up anymore. I'm interested in showing the evolution of scam messages, how it may mirror current events (pandemic, AI technology, etc.) and how success rates of scamming have changed or stayed the same.
 
-Text here...
+# Project Structure
+> Phishing emails are everywhere and have been everywhere for a while
+> How did phishing email scams start, how successful were they?
+> Which current events or technological changes evolved different types of phishing mediums and messages?
+> What does phishing look like today?
+> Has anything significant changed in the last 20 years in regard to phishing?
+> Call to action, what you can do to protect yourself and protect others
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+[Final Project Early Sketch.pdf](https://github.com/user-attachments/files/32633944/Final.Project.Early.Sketch.pdf)
+
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+For my data sources, I will be pulling from several reports and online datasets containing instances of phishing emails and overall statistics for suspicious email flagging. I will start with this kaggle phishing dataset[1], which includes several compiled phishing email databases. I will filter for instances which include a subject line and message body and timestamp. I will then compare this to the Zenodo phishing email dataset, and filter out duplicate entries (same sender, receiver, and timestamp). These datasets will help give me an idea of the evolution of message types over time.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+From these datasets, I will move into my second phase which is success rate of different phishing emails. This step gets tricky because there are some potential privacy concerns with analyzing this data. To circumvent this, I will be looking over several reports, including the knowbe4 annual benchmarking phishing report by industry(3). I will combine this with reports from Pistachio (4) and  proofpoint (5) for different angles and measures. 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+I am planning on using Tableau for my project. I feel like it offers the most potential for visualizations, and I have gotten more and more comfortable with it throughout this course.
 
-Text here...
 
 ## References
-_List any references you used here._
+[1] Kaggle Phishing Dataset, https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset
+[2] Zenodo Phishing Email Curated Datasets, https://zenodo.org/records/8339691
+A. I. Champa, M. F. Rabbi, and M. F. Zibran, “Why phishing emails escape detection: A closer look at the failure points,” in 12th Interna- tional Symposium on Digital Forensics and Security (ISDFS), 2024, pp. 1–6.
+A. I. Champa, M. F. Rabbi, and M. F. Zibran, “Curated datasets and feature analysis for phishing email detection with machine learning,” in 3rd IEEE International Conference on Computing and Machine Intelligence (ICMI), 2024, pp. 1–7.
+[3] https://www.knowbe4.com/resources/reports/phishing-by-industry-benchmarking-report
+[4] https://pistachioapp.com/blog/click-rate-isnt-enough-to-measure-phishing-resilience
+[5] https://www.proofpoint.com/us/products/security-awareness-training/phishing-simulations
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I did not use AI for this assignment, although I may use it further down to assist with technical challenges of using Tableau. Additionally, I did indirectly use AI when performing google searches as the AI overview is now built into search engines.

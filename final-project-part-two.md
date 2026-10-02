@@ -1,18 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-Initial Idea:
-Opening
-- A phishing message
-- Scope outwards to show volume of phishing messages sent and receive every day
-How do we spot fake messages?
-- Show different phishing scam categories/labels
-- Show their prevalence over time
-- Show their targets
-Call to Action
-- Call your parents!
 
-Idea After Analyzing Available Data:
 Opening
 - Raise your hand if you have recieved a phishing email
 - Keep your hand raised if you or somebody you know has fallen for a phishing scam? 
@@ -24,16 +13,16 @@ Problem:
 - People keep falling for them because phishing tactics have evolved over time
 Data
 - To visualize these trends, Jose has been so kind to supply us with phishing emails he has recieved from 1999-2025
+
 Visual #1
-- This is a visualization of patterns in the dataset
+<img width="1171" height="636" alt="Screenshot 2026-10-01 at 9 11 43 PM" src="https://github.com/user-attachments/assets/1b5bd82f-d2e8-45df-98ce-32ae6a097cea" />
+
 Visual #2
-- This is a visualization of patterns in phishing email messages over time
+<img width="1159" height="549" alt="Screenshot 2026-10-01 at 9 12 04 PM" src="https://github.com/user-attachments/assets/b81b7aa1-238b-495d-97eb-9a3a9dece7db" />
+
 Call to Action
 - Educate your loved ones
 - Send Jose Navario a thank you email for his contributions to phishing email detection
-
-Story Board:
-
 
 
 # User research 
@@ -85,6 +74,17 @@ Text here!
 
 Text here!
 
+## Initial Idea
+
+Opening
+- A phishing message
+- Scope outwards to show volume of phishing messages sent and receive every day
+How do we spot fake messages?
+- Show different phishing scam categories/labels
+- Show their prevalence over time
+- Show their targets
+Call to Action
+- Call your parents!
 
 ## References
 _List any references you used here._

@@ -44,6 +44,7 @@ Text here!
 |    Determine user preference |   Which is your favorite visual?  |
 |    Determine user understanding |   Which are your takeaways?  |
 |    Determine user experience |   Which would you change?  |
+|    Story effectiveness |   Did this storyboard tell a story?  |
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.

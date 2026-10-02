@@ -51,29 +51,23 @@ Text here!
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (friend, engineer) | Interview 2 (friend, software) | Interview 3 (friend, cyber) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| What do you know about phishing? | Affects a lot of people  | More than one form, voice, text etc. | Bad emails scary / suspicious link in inbox / bank account is gone  |
+|    Have you been phishing                     |   Yeah one time it sucked                     |  No           |  No, but my buddy got tollbooth phished           |
+| Could you ever fall for a phishing scam  |  No                         |  Hell nah           |  No           |
+| What story did this tell?  |  Some guy got phished  |  His name was Jose      |  Phishing emails are a problem      |
 
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
+| Visuals need to be more engaging, didn't get much feedback on them | Create a visual more exciting than a line chart |
+| Young and tech savvy people are overconfident in phishing mitigation    |  Include this as part of my story for a more compelling call to action      |
+|  Too much emphasis on Jose's story, might be distracting    |  Focus more on phishing than on Jose Navarro                         |
 
 ## Initial Idea
 
@@ -91,4 +85,4 @@ Call to Action
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I did my own research and data procurement, I used AI to help draft some sketches, and I used AI to help parse the data and get some of the overall trends/metadata/dataset health. I had it write a few python scripts to return column statistics and similar general observations.

@@ -1,8 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
+Initial Idea:
 Opening
 - A phishing message
 - Scope outwards to show volume of phishing messages sent and receive every day
@@ -13,10 +12,33 @@ How do we spot fake messages?
 Call to Action
 - Call your parents!
 
+Idea After Analyzing Available Data:
+Opening
+- Raise your hand if you have recieved a phishing email
+- Keep your hand raised if you or somebody you know has fallen for a phishing scam? 
+- Let me introduce you to my friend Jose Navario, a father, husband, and software engineer.
+- Question: What do you and I have in common with Jose Navario?
+- Answer: We all get phishing emails
+Problem:
+- We keep getting phishing emails because people keep falling for them
+- People keep falling for them because phishing tactics have evolved over time
+Data
+- To visualize these trends, Jose has been so kind to supply us with phishing emails he has recieved from 1999-2025
+Visual #1
+- This is a visualization of patterns in the dataset
+Visual #2
+- This is a visualization of patterns in phishing email messages over time
+Call to Action
+- Educate your loved ones
+- Send Jose Navario a thank you email for his contributions to phishing email detection
+
+Story Board:
+
+
+
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
 My target is non technical people who receive phishing scam messages.  
 
@@ -28,11 +50,11 @@ Text here!
 | Goal | Questions to Ask |
 |------|------------------|
 | Determine average background | What do you know about phishing?  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+|    Detemine percieved risk  |     Could you ever fall for a phishing scam?             |
+|    Determine most effective medium to reach the target audience |   What is the most effective way to reach you with important information?                |
+|    Determine user preference |   Which is your favorite visual?  |
+|    Determine user understanding |   Which are your takeaways?  |
+|    Determine user experience |   Which would you change?  |
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -63,14 +85,9 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-

@@ -1,36 +1,29 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+(https://carnegiemellon.shorthandstories.com/somethings-phishy/index.html)
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
+The biggest change I made since part two was pulling away from telling Jose's story. As I mentioned in earlier pieces, one of the hardest parts of telling my story about phishing emails was finding the data. There are many databases of sample phishing emails, which are often used to train Machine Learning models. However, a lot of these databases are missing important metadata I wanted for my story, such as date and message body. The database that have this information exist, but due to the sensitive nature of emails, a lot of these database are not public. Jose Navario is a security researcher who has been publishing phishing emails he himself has received sine 1996. I felt this was the best dataset for me to use because it allowed me to map phishing email trends over time while keeping several parameters constant, such as location, target, and methodology for obtaining the phishing emails. However, this dataset also had some significant limitations. Initially, I wanted to track how the words in the phishing emails have changed over time. I was hoping to see "Nigerian Price" and "Hot Singles In Your Area" scams get replaced by "Missing Package" or "Subscription Auto-Renewing," but when I actually ran the category analysis, most of the phishing emails had to do with IT or email related topics. I included this graph at the bottom of my shorthand if you want to review it, but once I made it I realized that it was very susceptible to bias, and may not show the trends I was interested in highlighting. As a result, I had to pivot and switch my story to focus on what the data could tell me. I decided to focus on broader trends that might be less likely to be swayed by the target (Jose Nazario), such as whether these emails contained common phishing red flags, the length of the emails, and how personal the emails were. These all felt like valuable trends I could map over time that wouldn't be as susceptible to the type of bias my dataset introduces. This was the biggest change from part two to part three, and informed a lot of the story choices I made in how I pitched phishing email awareness to my target audience, young adults.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+The target audience for my Final Data Story was young adults. I chose this audience because I found a surprising statistic that young adults are more likely to fall for phishing scams than any other age demographic, despite some of the common stereotypes around phishing scams. When I asked my peers if they could ever fall for a phishing scam, the responses lent themselves to the story. I was able to identify a problem (young adults falling for phishing emails) and a gap (young adults not taking it seriously) to drive the purpose of showing trends in phishing emails over the last 20 years. To help appeal to my audience, I kept my presentation concise, and tried to add a bit of humor to be more engaging(quoting "hell nah" from one of my interviews). I also used a QR code for my call to action, as this is a good way to reach young adults who often have their cellphones handy. One of the benefits of choosing young adults as my audience is that I am part of that audience, so I was able to speak pretty directly and plainly about "us" rather than "you all."
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
+For the theme of my presentation, I leaned into the phishing/fishing pun. I had an AI model generate several blank template slides on a theme I specified, which I used to help make my presentation more cohesive. I used orange throughout the presentation to signify a lure, hook, a gotcha in phishing emails. I then used blue as a more neutral tone, trying to draw my audience's eyes and attention to the yellow/orange in the graphs. One of the assumptions I made in my presentation was that the reason young adults don't take phishing emails that serious is because we think we already know how to spot/deal with them. I would've liked to have had more of a statistic about this, or to have asked this more directly in some of my interviews. I think this was a pretty fair assumption/guess, but my main regret with this presentation is that I didn't explicitly back it up, other than to show that a lot of these red flags aren't as prevalent in phishing emails as they used to be. 
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+[1] Zensec. (2026, March 11). Phishing statistics 2025-2026: The numbers you need to know. https://zensec.co.uk/blog/2025-phishing-statistics-the-alarming-rise-in-attacks
+
+[2] Federal Trade Commision. (2022, December 8). Who experiences scams? A story for all ages [Data Spotlight]. https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2022/12/who-experiences-scams-story-all-ages
+
+[Dataset] Nazario, J. (2025). Phishing Corpus [Data set]. Licensed under CC BY 4.0. https://monkey.org/~jose/phishing
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
+Backgrounds and themes for this presentation were generated using AI. Additionally, AI tools were used to help in preprocessing of data, writing python scripts which allowed me to quickly view metadata and column statistics to inform the trends I wanted to represent. AI was also used to help troubleshoot issues I ran into while using Tableau for creating my graphs.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+I really enjoyed giving this presentation. It was a lot of fun, and I got to speak about a topic I'm pretty interested in. This class was a great opportunity for me to get creative, and even though I initially did not get along with Shorthand or Tableau, I think now I understand them both pretty well.
 
 

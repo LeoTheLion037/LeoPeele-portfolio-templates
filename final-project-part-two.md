@@ -81,8 +81,5 @@ How do we spot fake messages?
 Call to Action
 - Call your parents!
 
-## References
-_List any references you used here._
-
 ## AI acknowledgements
 I did my own research and data procurement, I used AI to help draft some sketches, and I used AI to help parse the data and get some of the overall trends/metadata/dataset health. I had it write a few python scripts to return column statistics and similar general observations.
